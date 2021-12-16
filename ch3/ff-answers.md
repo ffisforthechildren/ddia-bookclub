@@ -2,7 +2,13 @@
 
 ## Hash indexes are the first index we learn of in this chapter. What are its strengths? What are its limitations? If you've ever used a hash index, what were some of its limitations in practice?
 
--- YOUR ANSWER HERE --
+#### Strengths
+- Can take advantage of memory to improve index write speeds
+- 
+
+#### Limitations
+
+Never used a hash index so no comment.
 
 ## Read [Re-introducing Hash Indexes in PostgreSQL](https://hakibenita.com/postgresql-hash-index) for a deeper dive into hash indexes in Postgres. What are some of the differences between this writeup and DDIA? What struck you as some strengths of hash indexes when you read about it?
 
